@@ -154,7 +154,7 @@ Python 3.10 or newer is recommended.
 
 From Terminal:
 
-    cd /Users/haonanchen/Desktop/project
+    cd /project_location
     python3 -m streamlit run app.py
 
 Then open the local URL shown by Streamlit, normally:
@@ -167,7 +167,7 @@ Press Control+C in Terminal to stop the server.
 
 Start Jupyter from the project directory:
 
-    cd /Users/haonanchen/Desktop/project
+    cd /project_location
     python3 -m jupyter notebook risk_project.ipynb
 
 Run the notebook cells in order so that the weekly strategy returns, risk
