@@ -146,7 +146,7 @@ scenario shocks are applied to current portfolio weights.
 
 ## Installation
 
-Python 3.10 or newer is recommended.
+Python 3.13 is recommended.
 
     python3 -m pip install pandas numpy matplotlib yfinance streamlit jupyter
 
